@@ -1,6 +1,7 @@
 # UFOs
 Module 12 - UFO Webpage
 <br>Necessary index.html file is located at the same level as this ReadMe.
+<br>Live deployement at https://patgilch17.github.io/UFOs/
 
 ## Overview
 The goal of this project was to provide a way for the public to view a list of recorded UFO sightings and events.  But more importantly, we wanted to provide any visitor to the website the ability to easily search for results (datetime, city, etc...).  This way someone could both find a specific event, perhaps if they were interested in their own area, or someone could search on general criteria.  The latter would probably have more impact since we could answer questions like what state has the largest number of sightings or what shape has the least number of sightings.
